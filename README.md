@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arkadiusz Więcław</h1>
 <h3 align="center">A passionate game developer from Poland. I am graduate of University of Technology in Kielce, where I completed my studies, earning the title of Master of Engineering.I am seeking Entry-Level opportunity.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=0e75b6&style=flat" alt="nagzlos123" /> </p>
 
 <h3 align="left">Connect with me:</h3>
