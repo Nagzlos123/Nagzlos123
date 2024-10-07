@@ -35,6 +35,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagzlos123&" alt="nagzlos123" /></p>
 
 <h3 align="left">Certificates and Courses:</h3>
+<p align="left"><a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">PCAP: Programming Essentials in Python </a></p>
+<p align="left"><a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Scaling Networks </a></p>
+<p align="left"><a href="https://drive.google.com/file/d/1YlZ0Q10dqmm49g7iL152PQx7G2-VYu9U/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Connecting Networks </a></p>
 <p align="left"><a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">PRINCE2 Foundation Certificate in Project Management </a></p>
 <p align="left"><a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">PRINCE2® Practitioner Certificate in  Project Management </a></p>
 <p align="left"><a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">SOLID, Project Patterns in C# (.NET) </a></p>
