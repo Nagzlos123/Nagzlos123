@@ -91,8 +91,21 @@
 <table width="100%">
   <tr>
     <td width="50%">
+       <p align="center">
+         <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
+      </p>
       <p align="center">
         <a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">PCAP: Programming Essentials in Python </a>
+      </p>
+  </td>
+  </tr>
+    <tr>
+    <td width="50%">
+       <p align="center">
+         <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
+      </p>
+      <p align="center">
+        <a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Scaling Networks </a></p>
       </p>
   </td>
   </tr>
