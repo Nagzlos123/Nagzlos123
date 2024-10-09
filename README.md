@@ -51,7 +51,7 @@
         <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
         <p align="center">
           <a href="https://github.com/Nagzlos123">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
           </a>
         </p>
       </td>
@@ -59,7 +59,7 @@
         <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <p align="center">
           <a href="https://github.com/Nagzlos123">
-            <img align="center" src="https://streak-stats.demolab.com?user=Nagzlos123&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+            <img align="center" src="https://streak-stats.demolab.com?user=Nagzlos123&theme=nightowl&background=0,000000,083282&fire=ff8700&ring=ff8700&sideNums=ffffff&sideLabels=ffffff&dates=7e0314&currStreakNum=ffffff" alt="Streak Stats" />
           </a>
       </p>
     </td>
@@ -68,7 +68,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Nagzlos123/Space-Adventure2">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Space-Adventure2" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff" alt="Space-Adventure2" />
         </a>
       </p>
     </td>
@@ -76,7 +76,7 @@
       <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Nagzlos123">
-          <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagzlos123&layout=compact&&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Languages" />
+          <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagzlos123&layout=compact&&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff" alt="Languages" />
         </a>
       </p>
     </td>
