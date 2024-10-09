@@ -17,14 +17,28 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-<a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="50" width="50" /></a>
-<a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank">
-  <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Website2.png" alt="arkadiusz-wieclaw-website" height="40" width="40" />
-</a>
-<a href="https://www.codewars.com/users/Nagzlos123" target="blank">
-  <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/codewars.png" alt="codewars" height="60" width="60" />
-</a>
+  <table width="100%">
+    <tr>
+      <td width="20%">
+        <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="50" width="50"/>
+        </a>
+      </td>
+      <td width="20%">
+        <a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank">
+          <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Website2.png" alt="arkadiusz-wieclaw-website" height="40" width="40" />
+        </a>
+      </td>
+      <td width="20%">
+        <a href="https://www.codewars.com/users/Nagzlos123" target="blank">
+          <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/codewars.png" alt="codewars" height="60" width="60" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+
 </div>
 <br/>
 
@@ -98,6 +112,7 @@
 </p>
 <br/>
 
+<!--Graphic Design Tools --> 
 <h2 align="center">✒️ Graphic Design Tools ✒️ </h2>
 <p align="center"> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
