@@ -41,3 +41,5 @@
 <p align="left"><a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">PRINCE2 Foundation Certificate in Project Management </a></p>
 <p align="left"><a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">PRINCE2® Practitioner Certificate in  Project Management </a></p>
 <p align="left"><a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">SOLID, Project Patterns in C# (.NET) </a></p>
+<p align="left"><a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">Complete C# course for .NET developers from an expert +practice </a></p>
+
