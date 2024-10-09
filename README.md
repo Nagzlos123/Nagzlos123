@@ -2,6 +2,8 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/Nagzlos123/Nagzlos123/main/Banner_1.png"> </div>
 <h3 align="center">A passionate game developer from Poland. I am graduate of University of Technology in Kielce, where I completed my studies, earning the title of Master of Engineering.I am seeking Entry-Level opportunity.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=0e75b6&style=flat" alt="nagzlos123" /> </p>
 
 - 🔭 I’m currently working on [Space-Adventure2](https://github.com/Nagzlos123/Space-Adventure2)
@@ -83,7 +85,11 @@
 <br />
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagzlos123&show_icons=true&locale=en" alt="nagzlos123" /></p>
 
