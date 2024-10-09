@@ -49,7 +49,18 @@
 <br/>
 
 <h2 align="center">✒️ Graphic Design Tools ✒️ </h2>
-<p align="center"> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Canva_icon.png" alt="canva" width="40" height="40"/> </a> <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SketchBook_icon.png" alt="sketchbook" width="40" height="40"/> </a> <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Gimp_icon.png" alt="gimp" width="40" height="40"/> </a> </a> <a href="https://wacom.pl/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Wacom_icon.png" alt="wacom" width="40" height="40"/> </a> 
+<p align="center"> 
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Canva_icon.png" alt="canva" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SketchBook_icon.png" alt="sketchbook" width="40" height="40"/> </a> 
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Gimp_icon.png" alt="gimp" width="40" height="40"/> 
+  </a>
+  <a href="https://wacom.pl/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Wacom_icon.png" alt="wacom" width="40" height="40"/>
+  </a> 
 </p>
 <br/>
 
