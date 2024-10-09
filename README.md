@@ -41,33 +41,32 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tr>
-        <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
+      <td width="50%">
+        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/Kiran1689">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/Kiran1689">
+            <img align="center" src="https://streak-stats.demolab.com?user=Nagzlos123&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          </a>
       </p>
     </td>
-        <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Nagzlos123&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
   <tr>
-        <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Space-Adventure2" />
-        </a>
-      </p>
-    </td>
-  </td>
+      <td width="50%">
+        <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+        <p align="center">
+          <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
+            <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-     Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Space-Adventure2" />
+          </a>
+        </p>
+      </td>
+    </tr>
 </table>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagzlos123&show_icons=true&locale=en&layout=compact" alt="nagzlos123" /></p>
