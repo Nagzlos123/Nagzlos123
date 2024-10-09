@@ -88,7 +88,16 @@
 
 
 <h2 align="center">📜 Certificates & Courses 📜 </h2>
-<p align="left"><a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">PCAP: Programming Essentials in Python </a></p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">PCAP: Programming Essentials in Python </a>
+      </p>
+  </td>
+  </tr>
+</table>
+
 <p align="left"><a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Scaling Networks </a></p>
 <p align="left"><a href="https://drive.google.com/file/d/1YlZ0Q10dqmm49g7iL152PQx7G2-VYu9U/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Connecting Networks </a></p>
 <p align="left"><a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">PRINCE2 Foundation Certificate in Project Management </a></p>
