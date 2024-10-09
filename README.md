@@ -51,7 +51,7 @@
         <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
         <p align="center">
           <a href="https://github.com/Nagzlos123">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
           </a>
         </p>
       </td>
@@ -84,14 +84,6 @@
 </table>
 <br />
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagzlos123&show_icons=true&locale=en" alt="nagzlos123" /></p>
 
 
 
