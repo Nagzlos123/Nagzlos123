@@ -51,7 +51,7 @@
         <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
         <p align="center">
           <a href="https://github.com/Nagzlos123">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
           </a>
         </p>
       </td>
@@ -68,7 +68,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Nagzlos123/Space-Adventure2">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff" alt="Space-Adventure2" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="Space-Adventure2" />
         </a>
       </p>
     </td>
