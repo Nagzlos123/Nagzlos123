@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **arekwie1998@onet.pl**
 
-<h3 align="left">Connect with me:</h3>
+
+<h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <p align="left">
 <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="30" width="40" /></a>
 <a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank"><img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Website2.png" alt="arkadiusz-wieclaw-website" height="30" width="40" /></a>
@@ -42,4 +43,11 @@
 <p align="left"><a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">PRINCE2® Practitioner Certificate in  Project Management </a></p>
 <p align="left"><a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">SOLID, Project Patterns in C# (.NET) </a></p>
 <p align="left"><a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">Complete C# course for .NET developers from an expert +practice </a></p>
+
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&width=100&section=footer"/>
+</p>
 
