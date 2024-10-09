@@ -35,7 +35,17 @@
 <br/>
 
 <h2 align="center">🔔 Version Control & Project Management Tools 🔔 </h2>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Plastic-Scm.png" alt="plastic" width="40" height="40"/> </a> <a href="https://www.atlassian.com/pl/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Jira.png" alt="jira" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Plastic-Scm.png" alt="plastic" width="40" height="40"/> 
+  </a>   
+  <a href="https://www.atlassian.com/pl/software/jira" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Jira.png" alt="jira" width="40" height="40"/>   
+  </a> 
+</p>
 <br/>
 
 <h2 align="center">✒️ Graphic Design Tools ✒️ </h2>
