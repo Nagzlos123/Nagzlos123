@@ -47,6 +47,12 @@
 </div>
 <br/>
 
+<h2 align="center">💡 Projects 💡 </h2>
+<p align="center"> 
+  <a href="https://github.com/Nagzlos123/Snake_OpenGL" target="blank">
+   <img align="center" alt="Snake" width="500" height="500" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Snake.gif">
+  </a> 
+</p>
 
 <h2 align="center">💻 Languages & Tools 💻 </h2>
 <p align="center"> 
