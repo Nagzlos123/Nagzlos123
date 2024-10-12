@@ -50,7 +50,7 @@
 <h2 align="center">💡 Projects 💡 </h2>
 <p align="center"> 
   <a href="https://github.com/Nagzlos123/Snake_OpenGL" target="blank">
-   <img align="center" alt="Snake" width="500" height="500" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Snake.gif">
+   <img align="center" alt="Snake" width="450" height="450" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Snake.gif">
   </a> 
 </p>
 
