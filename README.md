@@ -45,7 +45,6 @@
     </tr>
   </table>
 </div>
-<br/>
 
 <h2 align="center">💡 Projects 💡 </h2>
 <p align="center"> 
@@ -179,7 +178,7 @@
     </td>
   </tr>
 </table>
-<br />
+<br/>
 
 
 
