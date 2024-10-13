@@ -54,6 +54,9 @@
   <a href="https://github.com/Nagzlos123/Space-Adventure" target="blank">
    <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/SpaceshipAnimation.gif">
   </a> 
+  <a href="https://github.com/Nagzlos123/Space-Adventure2" target="blank">
+   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/InventorySystem.gif">
+  </a> 
 </p>
 
 <h2 align="center">💻 Languages & Tools 💻 </h2>
