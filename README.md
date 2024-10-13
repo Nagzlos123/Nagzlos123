@@ -51,6 +51,9 @@
   <a href="https://github.com/Nagzlos123/Snake_OpenGL" target="blank">
    <img align="center" alt="Snake" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Snake.gif">
   </a> 
+  <a href="https://github.com/Nagzlos123/Space-Adventure" target="blank">
+   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/SpaceshipAnimation.gif">
+  </a> 
 </p>
 
 <h2 align="center">💻 Languages & Tools 💻 </h2>
