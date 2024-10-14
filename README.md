@@ -189,7 +189,11 @@
 </table>
 <br/>
 
-
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagzlos123&bg_color=0f046b&&color=ffffff&line=7e0314&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 <!--Certificates & Courses--> 
 <h2 align="center">📜 Certificates & Courses 📜 </h2>
