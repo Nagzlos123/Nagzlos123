@@ -47,6 +47,7 @@
 </div>
 
 <h2 align="center">💡 Projects 💡 </h2>
+<h3 align="center">(Click on video to get to repo) </h3>
 <p align="center"> 
   <a href="https://github.com/Nagzlos123/Snake_OpenGL" target="blank">
    <img align="center" alt="Snake" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Snake.gif">
