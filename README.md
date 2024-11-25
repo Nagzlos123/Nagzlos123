@@ -181,10 +181,15 @@
     </td>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Nagzlos123/Space-Adventure2">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="Space-Adventure2" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Nagzlos123/CandyCatch">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=CandyCatch&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="CandyCatch" />
         </a>
       </p>
     </td>
