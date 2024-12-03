@@ -156,6 +156,9 @@
   <a href="https://wacom.pl/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Wacom_icon.png" alt="wacom" width="40" height="40"/>
   </a> 
+  <a href="https://www.coreldraw.com/pl/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/icons8-corel-draw.svg" alt="coreldraw" width="40" height="40"/>
+  </a> 
 </p>
 <br/>
 
