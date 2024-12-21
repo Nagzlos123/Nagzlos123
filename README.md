@@ -70,19 +70,6 @@
    </tr>
     </tr>
   </table>
-  
-  <table width="100%">
-    <tr>
-      <td width="30%" align="center">
-        <p align="center"> 
-        <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="50" width="50"/>
-        </a>
-          </p>
-        </a>
-       </p>
-    </tr>
-  </table>
 </div>
 
 <h2 align="center">💡 Projects 💡 </h2>
