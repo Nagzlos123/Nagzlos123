@@ -19,6 +19,57 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+  <table>
+   <tr>
+      <td>    <p align="center">
+              <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
+                <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/My%20LinkedIn%20Featured%20Banner.png" alt="arkadiusz-wieclaw"/>
+              </a>
+           </p></td> <td>      <p align="center">
+                  <a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank">
+                    <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/My%20Website%20LinkedIn%20Featured%20Banner%20%E2%80%93.png" alt="arkadiusz-wieclaw" />
+                  </a>
+               </p></td> <td>     <p align="center">
+          <a href="https://www.codewars.com/users/Nagzlos123" target="blank">
+              <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/My%20Website%20LinkedIn%20Featured%20Banner%20%E2%80%93.png" alt="arkadiusz-wieclaw" />
+          </a>
+        </p></td>
+   </tr>
+   <tr>
+      <td>         <table width="100%">
+                <tr>
+                <td width="100%" align="center">
+                  <p align="center"> 
+                    <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
+                      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="100" width="100"/>
+                    </a>
+                  </p>
+                </td>
+              </tr>
+            </table></td> <td>         <table width="100%">
+                <tr>
+                <td width="100%" align="center">
+                  <p align="center"> 
+                    <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
+                      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="100" width="100"/>
+                    </a>
+                  </p>
+                </td>
+              </tr>
+            </table></td> <td>         <table width="100%">
+                <tr>
+                <td width="100%" align="center">
+                  <p align="center"> 
+                    <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
+                      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="100" width="100"/>
+                    </a>
+                  </p>
+                </td>
+              </tr>
+            </table></td>
+   </tr>
+ 
+</table>
    <table width="100%">
       <tr>
          <td width="33%" align="center">
@@ -32,18 +83,19 @@
       <tr>
           <td width="33%" align="center">
             <p align="center">
-              <table width="100%">
-                <tr>
-                <td width="100%" align="center">
-                  <p align="center"> 
-                    <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
-                      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="100" width="100"/>
-                    </a>
-                  </p>
+                <td width="33%" align="center">
+                <p align="center">
+                  <a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank">
+                    <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/My%20Website%20LinkedIn%20Featured%20Banner%20%E2%80%93.png" alt="arkadiusz-wieclaw" />
+                  </a>
+               </p>
                 </td>
-      </tr>
+              </tr>
+            </table>
+        </td>
+        </tr>
       </table>
-      </p>
+          </p>
           <td width="33%" align="center">
            <p align="center">
               <a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank">
@@ -58,7 +110,7 @@
           </a>
         </p>
        </td>
-         </tr>
+    </tr>
   </table>
   
   <table width="100%">
