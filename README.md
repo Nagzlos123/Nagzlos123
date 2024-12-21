@@ -31,7 +31,7 @@
                   </a>
                </p></td> <td>     <p align="center">
           <a href="https://www.codewars.com/users/Nagzlos123" target="blank">
-              <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/My%20Website%20LinkedIn%20Featured%20Banner%20%E2%80%93.png" alt="arkadiusz-wieclaw" />
+              <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/My%20Codewars%20Featured%20Banner%20.png" alt="arkadiusz-wieclaw" />
           </a>
         </p></td>
    </tr>
@@ -60,7 +60,7 @@
                 <tr>
                 <td width="100%" align="center">
                   <p align="center"> 
-                    <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
+                    <a href="https://www.codewars.com/users/Nagzlos123" target="blank">
                       <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/codewars.png" alt="codewars" height="100" width="100"/>
                     </a>
                   </p>
