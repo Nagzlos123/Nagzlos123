@@ -41,7 +41,7 @@
                 <td width="100%" align="center">
                   <p align="center"> 
                     <a href="https://linkedin.com/in/arkadiusz-wieclaw" target="blank">
-                      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="100" width="100"/>
+                      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkadiusz-wieclaw" height="80" width="80"/>
                     </a>
                   </p>
                 </td>
@@ -51,7 +51,7 @@
                 <td width="100%" align="center">
                   <p align="center"> 
                     <a href="https://arekwie1998.wixsite.com/my-portfolio" target="blank">
-                      <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Website2.png" alt="arkadiusz-wieclaw-website" height="100" width="100"/>
+                      <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Website2.png" alt="arkadiusz-wieclaw-website" height="80" width="80"/>
                     </a>
                   </p>
                 </td>
@@ -61,7 +61,7 @@
                 <td width="100%" align="center">
                   <p align="center"> 
                     <a href="https://www.codewars.com/users/Nagzlos123" target="blank">
-                      <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/codewars.png" alt="codewars" height="100" width="100"/>
+                      <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/codewars.png" alt="codewars" height="80" width="80"/>
                     </a>
                   </p>
                 </td>
