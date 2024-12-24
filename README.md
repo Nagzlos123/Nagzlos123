@@ -244,6 +244,7 @@
 
 <!--Certificates & Courses--> 
 <h2 align="center">📜 Certificates & Courses 📜 </h2>
+<h3 align="center">(Click on hyperlink to see certificate) </h3>
 <div align="center">
   <table width="100%">
   <tr>
