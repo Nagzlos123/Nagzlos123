@@ -4,8 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <br/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=0e75b6&style=flat" alt="nagzlos123" /> 
+
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=083282&style=for-the-badge&logo=star" alt="nagzlos123" style="padding-right:40px;" />
 </p>
 
 - 🔭 I’m currently working on [Space-Adventure2](https://github.com/Nagzlos123/Space-Adventure2)
