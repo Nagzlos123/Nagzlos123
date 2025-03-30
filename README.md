@@ -1,23 +1,29 @@
 <h1 align="center">Hi 👋, I'm Arkadiusz Więcław</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/Nagzlos123/Nagzlos123/main/Banner_1.png"> </div>
 <h3 align="center">A passionate game developer from Poland. I am graduate of University of Technology in Kielce, where I completed my studies, earning the title of Master of Engineering.I am seeking Entry-Level opportunity.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-<br/>
-
-
 
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=083282&style=for-the-badge&logo=star" alt="nagzlos123" style="padding-right:40px;" />
 </p>
 
+ <table width="100%">
+  <tr>
+     <td><img align="left" alt="Coding" width="300" hight="300" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/it_animation.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> --></td>
+    <td> 
+    
+      
 - 🔭 I’m currently working on [Space-Adventure2](https://github.com/Nagzlos123/Space-Adventure2)
-
+  
 - 🌱 I’m currently learning **Unity, C#, .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nagzlos123](https://github.com/Nagzlos123)
 
-- 📫 How to reach me **arekwie1998@onet.pl**
+- 📫 How to reach me **arekwie1998@onet.pl**</td>
+   
+  </tr>
+</table> 
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
