@@ -79,19 +79,19 @@
 <h3 align="center">(Click on video to get to repo) </h3>
 <p align="center"> 
   <a href="https://github.com/Nagzlos123/Snake_OpenGL" target="blank">
-   <img align="center" alt="Snake" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Snake.gif">
+   <img align="center" alt="Snake" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/Snake.gif">
   </a> 
   <a href="https://github.com/Nagzlos123/Space-Adventure" target="blank">
-   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/SpaceshipAnimation.gif">
+   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/SpaceshipAnimation.gif">
   </a> 
   <a href="https://github.com/Nagzlos123/Space-Adventure2" target="blank">
-   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/InventorySystem.gif">
+   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/InventorySystem.gif">
   </a> 
   <a href="https://github.com/Nagzlos123/Cosmic_Billiards" target="blank">
-   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/CosmicBilliard.gif">
+   <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/CosmicBilliard.gif">
   </a> 
   <a href="https://github.com/Nagzlos123/Water_simulation" target="blank">
-   <img align="center" alt="WaterSimulation" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/WaterSimulation%202.gif">
+   <img align="center" alt="WaterSimulation" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/WaterSimulation%202.gif">
   </a> 
 </p>
 
