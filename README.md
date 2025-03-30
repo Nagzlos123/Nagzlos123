@@ -204,7 +204,19 @@
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/AutoCAD.png" alt="AutoCAD" width="40" height="40"/> 
   </a> 
   <a href="https://www.zwcad.pl/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/ZWCAD.png" alt="sketchbook" width="40" height="40"/> </a> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/ZWCAD.png" alt="ZWcad" width="40" height="40"/> </a> 
+  <a href="https://www.trumpf.com/pl_PL/produkty/oprogramowanie/system-programowania/trutops-boost/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Trumpf.png" alt="sketchbook" width="40" height="40"/> </a> 
+</p>
+<br/>
+
+
+<!--AI Tools  --> 
+<h2 align="center"> ⚡️ AI Tools ⚡️ </h2>
+<p align="center"> 
+  <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/chatgpt.svg" alt="chatGPT" width="50" height="50"/> 
+  </a> 
 </p>
 <br/>
 
