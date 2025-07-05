@@ -346,7 +346,7 @@
     <td width="50%">
        <p align="center">
           <a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">
-             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="80" height="80"/>
+             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="40" height="40"/>
           </a>
         </p>
         <p align="center">
