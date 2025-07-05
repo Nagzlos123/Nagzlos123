@@ -358,7 +358,7 @@
     <td width="50%">
        <p align="center">
          <a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="80" height="80"/>
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="40" height="40"/>
           </a>
         </p>
         <p align="center">
