@@ -131,7 +131,7 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Python.png" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="40" height="40"/> 
@@ -162,7 +162,7 @@
   </a>
 </p>
 <br/>
-
+<!--Version Control & Project Management Tools  --> 
 <h2 align="center">🔔 Version Control & Project Management Tools 🔔 </h2>
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
