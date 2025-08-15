@@ -146,7 +146,7 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/HTML5.png" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/CSS3.png" alt="css" width="40" height="40"/> 
@@ -155,10 +155,10 @@
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PHP.png" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/MySQL.png" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Oracle.png" alt="oracle" width="40" height="40"/> 
   </a>
 </p>
 <br/>
