@@ -160,6 +160,9 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Oracle.png" alt="oracle" width="40" height="40"/> 
   </a>
+  <a href="https://learn.microsoft.com/pl-pl/powershell/scripting/overview?view=powershell-7.5" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Powershell.svg" alt="powershell" width="40" height="40"/> 
+  </a>
 </p>
 <br/>
 <!--Version Control & Project Management Tools  --> 
