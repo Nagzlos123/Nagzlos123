@@ -2,6 +2,12 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/Nagzlos123/Nagzlos123/main/Banner_1.png"> </div>
 <h3 align="center">A passionate game developer from Poland. I am graduate of University of Technology in Kielce, where I completed my studies, earning the title of Master of Engineering.I am seeking Entry-Level opportunity.</h3>
 
+<h5 align="left">In all my games, I create most of the elements myself, using a Wacom tablet and Autodesk SketchBook Pro. I use tools such as Canva, Gimp, Blender. 
+  I have excellent knowledge of UI systems in Unity and am proficient with Scriptable objects.</h5>
+
+<h5 align="left"> Also, I bought myself an CorelDRAW and now create vector graphics for printing on packaging. I use tools such as Canva, Gimp, Blender to create </h5>
+
+
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=083282&style=for-the-badge&logo=star" alt="nagzlos123" style="padding-right:40px;" />
@@ -80,6 +86,8 @@
     </tr>
   </table>
 </div>
+
+<h2 align="center">🎨 My Graphic Works 🎨 </h2>
 
 <h2 align="center">💡 Projects 💡 </h2>
 <h3 align="center">(Click on video to get to repo) </h3>
