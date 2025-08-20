@@ -88,7 +88,13 @@
 </div>
 
 <h2 align="center">🎨 My Graphic Works 🎨 </h2>
+<p align="center"> 
+  <a href="https://arekwie1998.wixsite.com/my-portfolio/portfolio-collections/my-graphics-portfolio/corel-draw" target="blank">
+   <img align="center" alt="Corel" width="200" height="200" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Graphic%20Portfolio/CorelDRAW.png">
+  </a> 
 
+  </p>
+  
 <h2 align="center">💡 Projects 💡 </h2>
 <h3 align="center">(Click on video to get to repo) </h3>
 <p align="center"> 
