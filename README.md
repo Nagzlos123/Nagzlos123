@@ -90,10 +90,10 @@
 <h2 align="center">🎨 My Graphic Works 🎨 </h2>
 <p align="center"> 
   <a href="https://arekwie1998.wixsite.com/my-portfolio/portfolio-collections/my-graphics-portfolio/corel-draw" target="blank">
-   <img align="center" alt="Corel" width="200" height="200" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Graphic%20Portfolio/CorelDRAW.png">
+   <img align="center" alt="Corel" width="100" height="100" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Graphic%20Portfolio/CorelDRAW.png">
   </a> 
   <a href="https://arekwie1998.wixsite.com/my-portfolio/portfolio-collections/my-graphics-portfolio/dymek-it" target="blank">
-   <img align="center" alt="Web Features" width="200" height="200" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Graphic%20Portfolio/Web%20Features.png">
+   <img align="center" alt="Web Features" width="100" height="100" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Graphic%20Portfolio/Web%20Features.png">
   </a> 
   </p>
   
