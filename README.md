@@ -106,6 +106,9 @@
   <a href="https://github.com/Nagzlos123/Space-Adventure" target="blank">
    <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/SpaceshipAnimation.gif">
   </a> 
+  <a href="https://github.com/Nagzlos123/Auto-runner" target="blank">
+   <img align="center" alt="AutoRunner" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/Auto_Runner2.gif">
+  </a> 
   <a href="https://github.com/Nagzlos123/Space-Adventure2" target="blank">
    <img align="center" alt="Spaceship" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/InventorySystem.gif">
   </a> 
