@@ -230,17 +230,17 @@
     <tr>
         <th>  
          <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio.png" alt="visualstudio" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio.png" alt="visualstudio" width="60" height="60"/> 
         </a>
         </th>
         <th>  
           <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio%20Code%20(VS%20Code).png" alt="vscode" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio%20Code%20(VS%20Code).png" alt="vscode" width="60" height="60"/> 
           </a>
         </th>
        <th>  
         <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="40" height="40"/> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="60" height="60"/> 
         </a> 
         </th>
     </tr>
