@@ -258,17 +258,17 @@
     <tr>
         <th>  
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
           </a> 
         </th>
         <th>  
           <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Plastic-Scm.png" alt="plastic" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Plastic-Scm.png" alt="plastic" width="60" height="60"/> 
           </a> 
         </th>
        <th>  
          <a href="https://www.atlassian.com/pl/software/jira" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Jira.png" alt="jira" width="40" height="40"/>   
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Jira.png" alt="jira" width="60" height="60"/>   
         </a> 
         </th>
     </tr>
