@@ -127,17 +127,17 @@
     <tr>
         <th>  
           <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C.png" alt="c" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C.png" alt="c" width="60" height="60"/> 
           </a> 
         </th>
         <th>  
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%2B%2B%20(CPlusPlus).png" alt="cplusplus" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%2B%2B%20(CPlusPlus).png" alt="cplusplus" width="60" height="60"/> 
           </a> 
         </th>
        <th>  
          <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
           </a> 
         </th>
     </tr>
