@@ -178,6 +178,9 @@
   <a href="https://www.microsoft.com/pl-pl/software-download/windows10%20" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Windows%20.png" alt="windows" width="40" height="40"/> 
   </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Ubuntu.png" alt="ubuntu" width="40" height="40"/> 
+  </a> 
 </p>
 <br/>
 
