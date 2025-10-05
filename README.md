@@ -335,7 +335,7 @@
     <tr>
         <th>  
           <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/chatgpt.svg" alt="chatGPT" width="50" height="50"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/chatgpt.svg" alt="chatGPT" width="70" height="70"/> 
           </a> 
         </th>
     </tr>
