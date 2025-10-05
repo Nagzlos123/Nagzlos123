@@ -100,6 +100,7 @@
 <h2 align="center">💡 Projects 💡 </h2>
 <h3 align="center">(Click on video to get to repo) </h3>
 <p align="center"> 
+
   <a href="https://github.com/Nagzlos123/Snake_OpenGL" target="blank">
    <img align="center" alt="Snake" width="400" height="400" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/Snake.gif">
   </a> 
@@ -122,12 +123,34 @@
 
 <h2 align="center">💻 Languages & Tools 💻 </h2>
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C.png" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%2B%2B%20(CPlusPlus).png" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+  <table align="center">
+    <tr>
+        <th>  
+          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C.png" alt="c" width="40" height="40"/> 
+          </a> 
+        </th>
+        <th>  
+          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%2B%2B%20(CPlusPlus).png" alt="cplusplus" width="40" height="40"/> 
+          </a> 
+        </th>
+    </tr>
+    <tr>
+        <td align="center"> C </td>
+        <td align="center"> C# </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>No.</th>
+    </tr>
+    <tr>
+        <td>1</td>
+    </tr>
+</table>
+
+
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="40" height="40"/> 
   </a> 
