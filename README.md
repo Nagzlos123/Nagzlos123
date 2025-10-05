@@ -309,26 +309,20 @@
     <tr>
         <th>  
           <a href="https://www.microsoft.com/pl-pl/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-              <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Excel_icon.png" alt="exel" width="40" height="40"/> 
+              <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Excel_icon.png" alt="exel" width="60" height="60"/> 
           </a>  
         </th>
         <th>  
           <a href="https://www.microsoft.com/pl-pl/microsoft-365/word" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Word.png" alt="word" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Word.png" alt="word" width="60" height="60"/> 
           </a>  
         </th>
     </tr>
     <tr>
         <td align="center"> <a href="https://www.microsoft.com/pl-pl/microsoft-365/excel" target="_blank" rel="noreferrer">  Excel  </a> </td>
-    </tr>
-     <tr>
         <td align="center"> <a href="https://www.microsoft.com/pl-pl/microsoft-365/word" target="_blank" rel="noreferrer">  Word  </a> </td>
-    </tr>
+    </tr>  
 </table>
-<p align="center"> 
-
-
-</p>
 <br/>
 
 <!--CAD Design Tools  --> 
