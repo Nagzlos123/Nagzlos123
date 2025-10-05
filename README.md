@@ -198,8 +198,7 @@
 <br/>
 <!--Operating Systems  --> 
 <h2 align="center">💽 Operating Systems 💽 </h2>
-<p align="center"> 
-    <table align="center">
+<table align="center">
     <tr>
         <th>  
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -223,21 +222,38 @@
         <td align="center"><a href="https://ubuntu.com/" target="_blank" rel="noreferrer">  Ubuntu </a></td>
     </tr>
 </table>
-</p>
 <br/>
 
 <!--Integrated Development Environments  --> 
 <h2 align="center">🔧 Integrated Development Environments 🔧 </h2>
+<table align="center">
+    <tr>
+        <th>  
+         <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio.png" alt="visualstudio" width="40" height="40"/> 
+        </a>
+        </th>
+        <th>  
+          <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio%20Code%20(VS%20Code).png" alt="vscode" width="40" height="40"/> 
+          </a>
+        </th>
+       <th>  
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="40" height="40"/> 
+        </a> 
+        </th>
+    </tr>
+    <tr>
+        <td align="center"> <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer">   Visual Studio  </a> </td>
+        <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  Visual Studio Code </a></td>
+        <td align="center"><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">  PyCharm </a></td>
+    </tr>
+</table>
 <p align="center"> 
-  <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio.png" alt="visualstudio" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio%20Code%20(VS%20Code).png" alt="vscode" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="40" height="40"/> 
-  </a> 
+
+
+
 </p>
 <br/>
 
