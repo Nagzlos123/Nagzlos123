@@ -282,24 +282,53 @@
 
 <!--Graphic Design Tools --> 
 <h2 align="center">✒️ Graphic Design Tools ✒️ </h2>
+<table align="center">
+    <tr>
+        <th>  
+         <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Canva_icon.png" alt="canva" width="40" height="40"/> 
+        </a> 
+        </th>
+        <th>  
+         <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SketchBook_icon.png" alt="sketchbook" width="40" height="40"/> 
+          </a> 
+        </th>
+       <th>  
+        <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Gimp_icon.png" alt="gimp" width="40" height="40"/> 
+        </a>
+      </th>
+      <th>  
+        <a href="https://wacom.pl/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Wacom_icon.png" alt="wacom" width="40" height="40"/>
+        </a> 
+      </th>
+      <th>  
+        <a href="https://www.coreldraw.com/pl/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/icons8-corel-draw.svg" alt="coreldraw" width="40" height="40"/>
+        </a> 
+      </th>
+      <th>  
+        <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+        </a> 
+      </th>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://www.canva.com/" target="_blank" rel="noreferrer">  Canva  </a> </td>
+        <td align="center"><a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> Autodesk SketchBook Pro </a></td>
+        <td align="center"><a href="https://www.gimp.org/" target="_blank" rel="noreferrer">  Gimp </a></td>
+        <td align="center"> <a href="https://wacom.pl/" target="_blank" rel="noreferrer">  Wacom  </a> </td>
+        <td align="center"><a href="https://www.coreldraw.com/pl/" target="_blank" rel="noreferrer"> CorelDRAW </a></td>
+        <td align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> Blender </a></td>
+    </tr>
+</table>
 <p align="center"> 
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Canva_icon.png" alt="canva" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SketchBook_icon.png" alt="sketchbook" width="40" height="40"/> </a> 
-  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Gimp_icon.png" alt="gimp" width="40" height="40"/> 
-  </a>
-  <a href="https://wacom.pl/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Wacom_icon.png" alt="wacom" width="40" height="40"/>
-  </a> 
-  <a href="https://www.coreldraw.com/pl/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/icons8-corel-draw.svg" alt="coreldraw" width="40" height="40"/>
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
+
+
+
+
 </p>
 <br/>
 
