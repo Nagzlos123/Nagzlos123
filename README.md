@@ -133,10 +133,7 @@
   </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio.png" alt="visualstudio" width="40" height="40"/> 
-  </a>  
+  </a>   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Linux.png" alt="linux" width="40" height="40"/> 
   </a> 
@@ -151,9 +148,6 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Python.png" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="40" height="40"/> 
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
@@ -181,6 +175,18 @@
   </a>
 </p>
 <br/>
+<!--Integrated Development Environments  --> 
+<h2 align="center">🔧 Integrated Development Environments 🔧 </h2>
+<p align="center"> 
+  <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Visual%20Studio.png" alt="visualstudio" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="40" height="40"/> 
+  </a> 
+</p>
+<br/>
+
 <!--Version Control & Project Management Tools  --> 
 <h2 align="center">🔔 Version Control & Project Management Tools 🔔 </h2>
 <p align="center"> 
