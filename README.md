@@ -199,15 +199,30 @@
 <!--Operating Systems  --> 
 <h2 align="center">💽 Operating Systems 💽 </h2>
 <p align="center"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Linux.png" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/pl-pl/software-download/windows10%20" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Windows%20.png" alt="windows" width="40" height="40"/> 
-  </a> 
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Ubuntu.png" alt="ubuntu" width="40" height="40"/> 
-  </a> 
+    <table align="center">
+    <tr>
+        <th>  
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Linux.png" alt="linux" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+           <a href="https://www.microsoft.com/pl-pl/software-download/windows10%20" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Windows%20.png" alt="windows" width="60" height="60"/> 
+          </a> 
+        </th>
+       <th>  
+          <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Ubuntu.png" alt="ubuntu" width="60" height="60"/> 
+          </a> 
+        </th>
+    </tr>
+    <tr>
+        <td align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  Linux  </a> </td>
+        <td align="center"><a href="https://www.microsoft.com/pl-pl/software-download/windows10%20" target="_blank" rel="noreferrer"> Windows </a></td>
+        <td align="center"><a href="https://ubuntu.com/" target="_blank" rel="noreferrer">  Ubuntu </a></td>
+    </tr>
+</table>
 </p>
 <br/>
 
