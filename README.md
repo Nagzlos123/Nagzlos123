@@ -142,9 +142,9 @@
         </th>
     </tr>
     <tr>
-        <td align="center"> C </td>
-        <td align="center"> C++ </td>
-        <td align="center"> C# </td>
+        <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> C  </a> </td>
+        <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> C++ </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
     </tr>
 </table>
 <table>
