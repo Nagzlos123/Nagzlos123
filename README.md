@@ -305,13 +305,29 @@
 
 <!--Workplace Office Tools  --> 
 <h2 align="center"> 📠 Workplace Office Tools 📠 </h2>
+<table align="center">
+    <tr>
+        <th>  
+          <a href="https://www.microsoft.com/pl-pl/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+              <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Excel_icon.png" alt="exel" width="40" height="40"/> 
+          </a>  
+        </th>
+        <th>  
+          <a href="https://www.microsoft.com/pl-pl/microsoft-365/word" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Word.png" alt="word" width="40" height="40"/> 
+          </a>  
+        </th>
+    </tr>
+    <tr>
+        <td align="center"> <a href="https://www.microsoft.com/pl-pl/microsoft-365/excel" target="_blank" rel="noreferrer">  Excel  </a> </td>
+    </tr>
+     <tr>
+        <td align="center"> <a href="https://www.microsoft.com/pl-pl/microsoft-365/word" target="_blank" rel="noreferrer">  Word  </a> </td>
+    </tr>
+</table>
 <p align="center"> 
-  <a href="https://www.microsoft.com/pl-pl/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Excel_icon.png" alt="exel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/pl-pl/microsoft-365/word" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Word.png" alt="word" width="40" height="40"/> 
-  </a> 
+
+
 </p>
 <br/>
 
@@ -343,9 +359,6 @@
         <td align="center"> <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer">   ChatGPT  </a> </td>
     </tr>
 </table>
-<p align="center"> 
-
-</p>
 <br/>
 
 <!--Github stats Table--> 
