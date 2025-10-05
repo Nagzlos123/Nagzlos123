@@ -331,10 +331,20 @@
 
 <!--AI Tools  --> 
 <h2 align="center"> ⚡️ AI Tools ⚡️ </h2>
+<table align="center">
+    <tr>
+        <th>  
+          <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/chatgpt.svg" alt="chatGPT" width="50" height="50"/> 
+          </a> 
+        </th>
+    </tr>
+    <tr>
+        <td align="center"> <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer">   ChatGPT  </a> </td>
+    </tr>
+</table>
 <p align="center"> 
-  <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/chatgpt.svg" alt="chatGPT" width="50" height="50"/> 
-  </a> 
+
 </p>
 <br/>
 
