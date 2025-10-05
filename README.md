@@ -140,10 +140,64 @@
             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
           </a> 
         </th>
+        <th>  
+         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Python.png" alt="python" width="60" height="60"/> 
+          </a>  
+        </th>
+        <th>  
+          <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Oracle.png" alt="oracle" width="60" height="60"/> 
+          </a>
+        </th>
+        <th>  
+         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/MySQL.png" alt="mysql" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+          <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PHP.png" alt="php" width="60" height="60"/> 
+          </a>
+        </th>
+        <th>  
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/HTML5.png" alt="html5" width="60" height="60"/> 
+          </a>
+        </th>
+        <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
     </tr>
     <tr>
         <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> C  </a> </td>
         <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> C++ </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> Python </a></td>
+        <td align="center"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> Oracle </a></td>
+        <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  MySQL </a></td>
+        <td align="center"><a href="https://www.php.net/" target="_blank" rel="noreferrer">  PHP </a></td>
+        <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  HTML </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
         <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
     </tr>
 </table>
@@ -167,30 +221,20 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Python.png" alt="python" width="40" height="40"/> 
-  </a> 
+
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/OpenGL.png" alt="opengl" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/HTML5.png" alt="html5" width="40" height="40"/> 
-  </a>
+
   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/CSS3.png" alt="css" width="40" height="40"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PHP.png" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/MySQL.png" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Oracle.png" alt="oracle" width="40" height="40"/> 
-  </a>
+
+
+ 
   <a href="https://learn.microsoft.com/pl-pl/powershell/scripting/overview?view=powershell-7.5" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Powershell.svg" alt="powershell" width="40" height="40"/> 
   </a>
@@ -324,12 +368,6 @@
         <td align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> Blender </a></td>
     </tr>
 </table>
-<p align="center"> 
-
-
-
-
-</p>
 <br/>
 
 <!--Workplace Office Tools  --> 
