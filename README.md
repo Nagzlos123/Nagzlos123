@@ -134,12 +134,6 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Linux.png" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/pl-pl/software-download/windows10%20" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Windows%20.png" alt="windows" width="40" height="40"/> 
-  </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
@@ -175,6 +169,18 @@
   </a>
 </p>
 <br/>
+<!--Operating Systems  --> 
+<h2 align="center">💽 Operating Systems 💽 </h2>
+<p align="center"> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Linux.png" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/pl-pl/software-download/windows10%20" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Windows%20.png" alt="windows" width="40" height="40"/> 
+  </a> 
+</p>
+<br/>
+
 <!--Integrated Development Environments  --> 
 <h2 align="center">🔧 Integrated Development Environments 🔧 </h2>
 <p align="center"> 
