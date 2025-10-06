@@ -309,6 +309,22 @@
 </table>
 <br/>
 
+<!--Virtualization & Containerization Tools  --> 
+<h2 align="center">💡 Virtualization & Containerization Tools 💡 </h2>
+<table align="center">
+    <tr>
+        <th>  
+          <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/VirtualBox.png" alt="virtualbox" width="60" height="60"/> 
+          </a> 
+        </th>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">   VirtualBox  </a> </td>
+    </tr>
+</table>
+<br/>
+
 <!--Graphic Design Tools --> 
 <h2 align="center">✒️ Graphic Design Tools ✒️ </h2>
 <table align="center">
