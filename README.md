@@ -166,9 +166,9 @@
           </a>
         </th>
         <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
+          <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/CSS3.png" alt="css" width="40" height="40"/> 
+          </a>
         </th>
     </tr>
     <tr>
@@ -180,7 +180,7 @@
         <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  MySQL </a></td>
         <td align="center"><a href="https://www.php.net/" target="_blank" rel="noreferrer">  PHP </a></td>
         <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  HTML </a></td>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">  CSS </a></td>
     </tr>
 </table>
 <table align="center">
@@ -200,8 +200,26 @@
             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
           </a> 
         </th>
+           <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
+        <th>  
+         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
+          </a> 
+        </th>
     </tr>
     <tr>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
         <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
         <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
         <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
@@ -227,9 +245,7 @@
     <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/OpenGL.png" alt="opengl" width="40" height="40"/> 
   </a> 
 
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/CSS3.png" alt="css" width="40" height="40"/> 
-  </a>
+
 
 
  
