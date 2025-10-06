@@ -186,32 +186,32 @@
     <tr>
       <th>  
         <a href="https://learn.microsoft.com/pl-pl/powershell/scripting/overview?view=powershell-7.5" target="_blank" rel="noreferrer"> 
-          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Powershell.svg" alt="powershell" width="40" height="40"/> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Powershell.svg" alt="powershell" width="60" height="60"/> 
         </a> 
       </th>
       <th>  
         <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> 
         </a> 
       </th>
       <th>  
         <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> 
         </a>  
       </th>
       <th>  
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> 
         </a>  
       </th>
       <th>  
         <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/OpenGL.png" alt="opengl" width="40" height="40"/> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/OpenGL.png" alt="opengl" width="60" height="60"/> 
         </a> 
       </th>
       <th>  
         <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> 
         </a>  
       </th>
     </tr>
