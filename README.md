@@ -121,8 +121,7 @@
   </a> 
 </p>
 
-<h2 align="center">💻 Languages & Tools 💻 </h2>
-<p align="center"> 
+<h2 align="center">💻 Languages & Tools 💻 </h2> 
   <table align="center">
     <tr>
         <th>  
@@ -167,7 +166,7 @@
         </th>
         <th>  
           <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/CSS3.png" alt="css" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/CSS3.png" alt="css" width="60" height="60"/> 
           </a>
         </th>
     </tr>
@@ -186,73 +185,45 @@
 <table align="center">
     <tr>
       <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
-        </th>
-        <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
-        </th>
-        <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
-        </th>
-           <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
-        </th>
-        <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
-        </th>
-        <th>  
-         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/C%23%20(CSharp).png" alt="csharp" width="60" height="60"/> 
-          </a> 
-        </th>
+        <a href="https://learn.microsoft.com/pl-pl/powershell/scripting/overview?view=powershell-7.5" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Powershell.svg" alt="powershell" width="40" height="40"/> 
+        </a> 
+      </th>
+      <th>  
+        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+        </a> 
+      </th>
+      <th>  
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+        </a>  
+      </th>
+      <th>  
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+        </a>  
+      </th>
+      <th>  
+        <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/OpenGL.png" alt="opengl" width="40" height="40"/> 
+        </a> 
+      </th>
+      <th>  
+        <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+        </a>  
+      </th>
     </tr>
     <tr>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
-        <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C# </a></td>
+        <td align="center"><a href="https://learn.microsoft.com/pl-pl/powershell/scripting/overview?view=powershell-7.5" target="_blank" rel="noreferrer">  PowerShell </a></td>
+        <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">  MATLAB </a></td>
+        <td align="center"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> .NET </a></td>
+        <td align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> OpenCV </a></td>
+        <td align="center"><a href="https://www.opengl.org/" target="_blank" rel="noreferrer">  OpenGL </a></td>
+        <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer">  Unity </a></td>
     </tr>
 </table>
-
-
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/OpenGL.png" alt="opengl" width="40" height="40"/> 
-  </a> 
-
-
-
-
- 
-  <a href="https://learn.microsoft.com/pl-pl/powershell/scripting/overview?view=powershell-7.5" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Powershell.svg" alt="powershell" width="40" height="40"/> 
-  </a>
-</p>
 <br/>
 <!--Operating Systems  --> 
 <h2 align="center">💽 Operating Systems 💽 </h2>
