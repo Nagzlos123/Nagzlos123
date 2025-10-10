@@ -318,9 +318,15 @@
             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/VirtualBox.png" alt="virtualbox" width="60" height="60"/> 
           </a> 
         </th>
+        <th>  
+          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Docker.png" alt="docker" width="60" height="60"/> 
+          </a> 
+        </th>
     </tr>
     <tr>
         <td align="center"><a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">   VirtualBox  </a> </td>
+        <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer">  Docker  </a> </td>
     </tr>
 </table>
 <br/>
