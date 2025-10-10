@@ -399,12 +399,12 @@
     <tr>
         <th>  
           <a href="https://www.autodesk.com/pl/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/AutoCAD.png" alt="AutoCAD" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/AutoCAD.png" alt="AutoCAD" width="60" height="60"/> 
           </a>  
         </th>
         <th>  
           <a href="https://www.zwcad.pl/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/ZWCAD.png" alt="ZWcad" width="40" height="40"/> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/ZWCAD.png" alt="ZWcad" width="60" height="60"/> 
           </a>  
         </th>
     </tr>
