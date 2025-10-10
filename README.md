@@ -395,15 +395,25 @@
 
 <!--CAD Design Tools  --> 
 <h2 align="center"> 🔨 CAD Design Tools 🔨 </h2>
-<p align="center"> 
-  <a href="https://www.autodesk.com/pl/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/AutoCAD.png" alt="AutoCAD" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.zwcad.pl/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/ZWCAD.png" alt="ZWcad" width="40" height="40"/> </a> 
-  <a href="https://www.trumpf.com/pl_PL/produkty/oprogramowanie/system-programowania/trutops-boost/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Trumpf.png" alt="sketchbook" width="40" height="40"/> </a> 
-</p>
+<table align="center">
+    <tr>
+        <th>  
+          <a href="https://www.autodesk.com/pl/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/AutoCAD.png" alt="AutoCAD" width="40" height="40"/> 
+          </a>  
+        </th>
+        <th>  
+          <a href="https://www.zwcad.pl/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/ZWCAD.png" alt="ZWcad" width="40" height="40"/> 
+          </a>  
+        </th>
+    </tr>
+    <tr>
+        <td align="center"> <a href="https://www.autodesk.com/pl/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer">   AutoCAD  </a> </td>
+        <td align="center"> <a href="https://www.zwcad.pl/" target="_blank" rel="noreferrer">  ZWCAD  </a> </td>
+    </tr>  
+</table>
+<br/>
 <br/>
 
 
