@@ -11,7 +11,10 @@
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=083282&style=for-the-badge&logo=star" alt="nagzlos123" style="padding-right:40px;" />
+  <!--<<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Nagzlos123/github-readme-stats" />-->
 </p>
+
+
 
  <table width="100%">
   <tr>
