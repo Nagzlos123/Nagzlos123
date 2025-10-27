@@ -131,6 +131,148 @@
   </a> 
 </p>
 
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%">
+  <tr>
+      <td width="50%">
+        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/Nagzlos123">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/Nagzlos123">
+            <img align="center" src="https://streak-stats.demolab.com?user=Nagzlos123&theme=nightowl&background=0,000000,083282&fire=ff8700&ring=ff8700&sideNums=ffffff&sideLabels=ffffff&dates=7e0314&currStreakNum=ffffff" alt="Streak Stats" />
+          </a>
+      </p>
+    </td>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Nagzlos123/Space-Adventure2">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="Space-Adventure2" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Nagzlos123/CandyCatch">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=CandyCatch&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="CandyCatch" />
+        </a>
+      </p>
+    </td>
+        <td width="50%">
+      <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Nagzlos123">
+          <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagzlos123&layout=compact&&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff" alt="Languages" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+
+<!--Contribution Graph-->
+<!--
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagzlos123&bg_color=0f046b&&color=ffffff&line=7e0314&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+-->
+
+<!--Certificates & Courses--> 
+<h2 align="center">📜 Certificates & Courses 📜 </h2>
+<h3 align="center">(Click on hyperlink to see certificate) </h3>
+<div align="center">
+  <table width="100%">
+  <tr>
+    <td width="50%">
+       <p align="center">
+         <a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
+           </a>  
+      </p>
+      <p align="center">
+        <a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">PCAP: Programming Essentials in Python </a>
+      </p>
+  </td>
+    <td width="50%">
+       <p align="center">
+         <a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
+          </a>
+        </p>
+        <p align="center">
+        <a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Scaling Networks </a></p>
+      </p>
+  </td>
+  </tr>
+  <tr>
+    <td width="50%">
+       <p align="center">
+         <a href="https://drive.google.com/file/d/1YlZ0Q10dqmm49g7iL152PQx7G2-VYu9U/view?usp=sharing" target="_blank" rel="noreferrer">
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
+          </a>
+        </p>
+        <p align="center">
+        <a href="https://drive.google.com/file/d/1YlZ0Q10dqmm49g7iL152PQx7G2-VYu9U/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Connecting Networks </a>
+      </p>
+  </td>
+    <td width="50%">
+       <p align="center">
+         <a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/prince2-seeklogo.svg" alt="c" width="80" height="80"/>
+          </a>
+        </p>
+        <p align="center">
+       <a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">PRINCE2 Foundation Certificate in Project Management </a>
+      </p>
+  </td>
+  </tr>
+  <tr>
+    <td width="50%">
+       <p align="center">
+         <a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/prince2-seeklogo.svg" alt="c" width="80" height="80"/>
+          </a>
+        </p>
+        <p align="center">
+       <a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">PRINCE2 Practitioner Certificate in  Project Management </a>
+      </p>
+    </td>
+    <td width="50%">
+       <p align="center">
+          <a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">
+             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="40" height="40"/>
+          </a>
+        </p>
+        <p align="center">
+        <a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">SOLID, Project Patterns in C# (.NET) </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+       <p align="center">
+         <a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">
+           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="40" height="40"/>
+          </a>
+        </p>
+        <p align="center">
+        <a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">Complete C# course for .NET developers from an expert +practice </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
 <h2 align="center">💻 Languages & Tools 💻 </h2> 
   <table align="center">
     <tr>
@@ -449,145 +591,6 @@
 </table>
 <br/>
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%">
-  <tr>
-      <td width="50%">
-        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-        <p align="center">
-          <a href="https://github.com/Nagzlos123">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagzlos123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-        <p align="center">
-          <a href="https://github.com/Nagzlos123">
-            <img align="center" src="https://streak-stats.demolab.com?user=Nagzlos123&theme=nightowl&background=0,000000,083282&fire=ff8700&ring=ff8700&sideNums=ffffff&sideLabels=ffffff&dates=7e0314&currStreakNum=ffffff" alt="Streak Stats" />
-          </a>
-      </p>
-    </td>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Nagzlos123/Space-Adventure2">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=Space-Adventure2&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="Space-Adventure2" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Nagzlos123/CandyCatch">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagzlos123&repo=CandyCatch&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700" alt="CandyCatch" />
-        </a>
-      </p>
-    </td>
-        <td width="50%">
-      <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Nagzlos123">
-          <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagzlos123&layout=compact&&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff" alt="Languages" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br/>
-
-<!--Contribution Graph-->
-<!--
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagzlos123&bg_color=0f046b&&color=ffffff&line=7e0314&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
--->
-
-<!--Certificates & Courses--> 
-<h2 align="center">📜 Certificates & Courses 📜 </h2>
-<h3 align="center">(Click on hyperlink to see certificate) </h3>
-<div align="center">
-  <table width="100%">
-  <tr>
-    <td width="50%">
-       <p align="center">
-         <a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
-           </a>  
-      </p>
-      <p align="center">
-        <a href="https://drive.google.com/file/d/1hvfB8TxRC2qD1W7hSiQ5TZ25fKPCQsY8/view?usp=sharing" target="_blank" rel="noreferrer">PCAP: Programming Essentials in Python </a>
-      </p>
-  </td>
-    <td width="50%">
-       <p align="center">
-         <a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
-          </a>
-        </p>
-        <p align="center">
-        <a href="https://drive.google.com/file/d/1jQ5OyFEJQdAf4qfheSM4PbI0xgTtN2dF/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Scaling Networks </a></p>
-      </p>
-  </td>
-  </tr>
-  <tr>
-    <td width="50%">
-       <p align="center">
-         <a href="https://drive.google.com/file/d/1YlZ0Q10dqmm49g7iL152PQx7G2-VYu9U/view?usp=sharing" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/Cisco%20Systems%20Logo-01.svg" alt="c" width="80" height="80"/>
-          </a>
-        </p>
-        <p align="center">
-        <a href="https://drive.google.com/file/d/1YlZ0Q10dqmm49g7iL152PQx7G2-VYu9U/view?usp=sharing" target="_blank" rel="noreferrer">CCNA Routing and Switching: Connecting Networks </a>
-      </p>
-  </td>
-    <td width="50%">
-       <p align="center">
-         <a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/prince2-seeklogo.svg" alt="c" width="80" height="80"/>
-          </a>
-        </p>
-        <p align="center">
-       <a href="https://drive.google.com/file/d/1t-s1VleP-p1SZs6zjQ6H6PIrE_UB2n2-/view" target="_blank" rel="noreferrer">PRINCE2 Foundation Certificate in Project Management </a>
-      </p>
-  </td>
-  </tr>
-  <tr>
-    <td width="50%">
-       <p align="center">
-         <a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/prince2-seeklogo.svg" alt="c" width="80" height="80"/>
-          </a>
-        </p>
-        <p align="center">
-       <a href="https://drive.google.com/file/d/1HGP8tQG314QTFj6P-u0nWn7lNndMjwng/view" target="_blank" rel="noreferrer">PRINCE2 Practitioner Certificate in  Project Management </a>
-      </p>
-    </td>
-    <td width="50%">
-       <p align="center">
-          <a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">
-             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="40" height="40"/>
-          </a>
-        </p>
-        <p align="center">
-        <a href="https://www.udemy.com/certificate/UC-32a3849a-e9cd-4d8d-860f-2fe17ae56465/" target="_blank" rel="noreferrer">SOLID, Project Patterns in C# (.NET) </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-       <p align="center">
-         <a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">
-           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/udemy-3.svg" alt="c" width="40" height="40"/>
-          </a>
-        </p>
-        <p align="center">
-        <a href="https://www.udemy.com/certificate/UC-67768b15-b35f-466a-9084-8c762e21c329/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer">Complete C# course for .NET developers from an expert +practice </a>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
 
 
 
