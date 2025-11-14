@@ -14,7 +14,7 @@
   <!--<<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Nagzlos123/github-readme-stats" />-->
 </p>
 
-
+<!--
 <p align="center">
     <img alt="Downloads Badge" width=150px height=150px src="https://img.shields.io/github/downloads/Nagzlos123/Nagzlos123-/total?color=darkblue"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <img alt="Commits Badge" src="https://img.shields.io/github/commit-activity/t/Nagzlos123/Nagzlos123-?color=purple"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -22,7 +22,7 @@
     <img alt="Prince Icon" width=20px height=20px src="https://i.imgur.com/d3J7PFg.jpeg"><img alt="Repo Size Badge" src="https://img.shields.io/github/repo-size/lajon1/Yet-Another-Kindred-Blades-Mod-YAKBM-"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <img alt="Prince Icon" width=20px height=20px src="https://i.imgur.com/d3J7PFg.jpeg"><img alt="Created At Badge" src="https://img.shields.io/github/created-at/lajon1/Yet-Another-Kindred-Blades-Mod-YAKBM-?color=cyan">
 </p>
-
+-->
  <table width="100%">
   <tr>
      <td><img align="left" alt="Coding" width="300" hight="300" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/it_animation.gif">
