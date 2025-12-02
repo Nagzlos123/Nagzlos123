@@ -12,10 +12,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nagzlos123&label=Profile%20views&color=083282&style=for-the-badge&logo=star" alt="nagzlos123" style="padding-right:40px;" />
   <!--<<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Nagzlos123/github-readme-stats" />-->
+  <a href="https://github.com/Nagzlos123" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/github/followers/Nagzlos123?logo=github&color=0891b2&style=for-the-badge&labelColor=1c1917logo=star" alt="nagzlos123" style="padding-right:40px;" /></a>
 </p>
 
-<a href="https://github.com/Nagzlos123" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917logo=star" alt="nagzlos123" style="padding-right:40px;" /></a>
+
 <!--
 <a href="https://github.com/Nagzlos123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
