@@ -15,8 +15,11 @@
 </p>
 
 <a href="https://github.com/Nagzlos123" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917logo=star" alt="nagzlos123" style="padding-right:40px;" /></a>
+<!--
+<a href="https://github.com/Nagzlos123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+-->
 <!--
 <p align="center">
     <img alt="Downloads Badge" width=150px height=150px src="https://img.shields.io/github/downloads/Nagzlos123/Nagzlos123-/total?color=darkblue"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
