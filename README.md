@@ -431,11 +431,17 @@ src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-th
           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/PyCharm.png" alt="pycharm" width="60" height="60"/> 
         </a> 
         </th>
+          <th>  
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/IntelliJ%20IDEA.png" alt="intelliJ" width="60" height="60"/> 
+        </a> 
+        </th>
     </tr>
     <tr>
         <td align="center"> <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer">   Visual Studio  </a> </td>
         <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  Visual Studio Code </a></td>
         <td align="center"><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">  PyCharm </a></td>
+        <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">  IntelliJ IDEA </a></td>
     </tr>
 </table>
 <br/>
