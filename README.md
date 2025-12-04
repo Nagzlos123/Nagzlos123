@@ -465,11 +465,17 @@ src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-th
             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Jira.png" alt="jira" width="60" height="60"/>   
         </a> 
         </th>
+           <th>  
+         <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Confluence.png" alt="confluence" width="60" height="60"/>   
+        </a> 
+        </th>
     </tr>
     <tr>
         <td align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">   Git  </a> </td>
         <td align="center"><a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer">  Plastic SCM </a></td>
         <td align="center"><a href="https://www.atlassian.com/pl/software/jira" target="_blank" rel="noreferrer">  Jira </a></td>
+      <td align="center"><a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">  Confluence </a></td>
     </tr>
 </table>
 <br/>
