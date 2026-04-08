@@ -527,6 +527,16 @@ src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-th
         </a> 
       </th>
       <th>  
+        <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/icons8-corel-draw.svg" alt="coreldraw" width="60" height="60"/>
+        </a> 
+      </th>
+      <th>  
+        <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Adobe-InDesign.png" alt="InDesign" width="60" height="60"/>
+        </a> 
+      </th>
+      <th>  
         <a href="https://www.coreldraw.com/pl/" target="_blank" rel="noreferrer"> 
           <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/icons8-corel-draw.svg" alt="coreldraw" width="60" height="60"/>
         </a> 
