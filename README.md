@@ -528,7 +528,7 @@ src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-th
       </th>
       <th>  
         <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/icons8-corel-draw.svg" alt="coreldraw" width="60" height="60"/>
+          <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/Illustrator.png" alt="Illustrator" width="60" height="60"/>
         </a> 
       </th>
       <th>  
@@ -552,6 +552,8 @@ src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-th
         <td align="center"><a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> SketchBook Pro </a></td>
         <td align="center"><a href="https://www.gimp.org/" target="_blank" rel="noreferrer">  Gimp </a></td>
         <td align="center"> <a href="https://wacom.pl/" target="_blank" rel="noreferrer">  Wacom  </a> </td>
+        <td align="center"><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> Illustrator </a></td>
+        <td align="center"><a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> InDesign </a></td>
         <td align="center"><a href="https://www.coreldraw.com/pl/" target="_blank" rel="noreferrer"> CorelDRAW </a></td>
         <td align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> Blender </a></td>
     </tr>
