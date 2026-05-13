@@ -630,10 +630,16 @@ src="https://img.shields.io/github/followers/Nagzlos123?logo=github&style=for-th
             <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/claude-ai.svg" alt="ClaudeAI" width="70" height="70"/> 
           </a> 
         </th>
+        <th>  
+          <a href="https://gemini.google/us/about/?hl=en" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Icons/SVG/google-gemini.svg" alt="gemini" width="70" height="70"/> 
+          </a> 
+        </th>
     </tr>
     <tr>
         <td align="center"> <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer">   ChatGPT  </a> </td>
-      <td align="center"> <a href="https://claude.com/product/overview" target="_blank" rel="noreferrer">   Claude  </a> </td>
+        <td align="center"> <a href="https://claude.com/product/overview" target="_blank" rel="noreferrer">   Claude  </a> </td>
+        <td align="center"> <a href="https://gemini.google/us/about/?hl=en" target="_blank" rel="noreferrer">   Gemini  </a> </td>
     </tr>
 </table>
 <br/>
