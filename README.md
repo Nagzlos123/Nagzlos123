@@ -2,10 +2,20 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/Nagzlos123/Nagzlos123/main/Banner_1.png"> </div>
 <h3 align="center">A passionate game developer from Poland. I am graduate of University of Technology in Kielce, where I completed my studies, earning the title of Master of Engineering.I am seeking Entry-Level opportunity.</h3>
 
-<h5 align="left">In all my games, I create most of the elements myself, using a Wacom tablet and Autodesk SketchBook Pro. I use tools such as Canva, Gimp, Blender. 
-  I have excellent knowledge of UI systems in Unity and am proficient with Scriptable objects.</h5>
+<h5 align="left">  
+I have 2 years of experience as a graphic designer and just under 1 year of experience in IT.
 
-<h5 align="left"> Also, I bought myself an CorelDRAW and now create vector graphics for printing on packaging. I use tools such as Canva, Gimp, Blender to create </h5>
+I am constantly developing my skills and am always open to new technologies and tools that I can use to improve my work.
+
+➡I worked on a 3D game using Unity and Plastic SCM alongside an international team made up of people from Poland, Canada, Pakistan, Hungary, and the United States. I was responsible for assigning tasks to the team after the lead specialist left the project.
+
+➡I'm currently writing macros for LibreOffice Calc using Visual Basic and testing AI tools by integrating them while reading the documentation
+
+➡I'm currently learning containerization using Docker on WSL
+
+➡ I have experience with the .Net platform and I am learning technologies closely related to C#.
+
+➡Also, I create vector graphics for printing on packaging using CorelDRAW. </h5>
 
 
 <!--Profile Count Badge-->
